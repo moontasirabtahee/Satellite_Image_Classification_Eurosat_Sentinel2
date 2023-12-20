@@ -1,0 +1,17 @@
+numpy
+tensorflow >= 2.10
+tensorflow_addons
+tensorflow_hub
+numpy
+matplotlib
+seaborn
+scikit-learn
+pandas
+rasterio
+zipfile36
+torch
+torchvision
+tqdm
+tifffile
+scikit-image
+geopandas
